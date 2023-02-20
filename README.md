@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8">
+
+<title>...</title>
+
+</head>
+
+<body>
+
+<header role="banner">
+
+<h1>SpeedStar Motors</h1>
+
+<p>Need a car? We offer Cars for sale and Rent.</p>
+
+</header>
+
+<nav>
+
+<ul>
+
+<li><a href="#">Mazda</a></li>
+
+<li><a href="#">Jeep</a></li>
+
+<li><a href="#">Audi</a></li>
+
+</ul>
+
+</nav>
+
+<article>
+
+<section>
+
+<p>We offer the best automotive parts and the best repair services.</p>
+
+</section>
+
+</article>
+
+<aside>
+
+<p>Online Car Booking is also available</p>
+
+</aside>
+
+<figure align="left">
+
+<img src="C:\Users\bida22-111\OneDrive - Botswana Accountancy College\Desktop\SpeedstarMotorsBanner.png" alt="TutorialPoint" width="200" height="100">
+
+</figure>
+
+<footer>
+
+<p>Created by <a href="#">Speedstar Motors</a></p>
+
+</footer>
+
+</body>
+
+</html>
